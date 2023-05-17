@@ -32,7 +32,7 @@ acerca_de_mi = {
     Dogs: True,
     Hobbies: ["Sports, electronics, DIY proyects, Arquitecture CAD design, automation"]     
 }
-````````
+```
 
 ###Sigueme en mis Redes:
 
