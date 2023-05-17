@@ -35,7 +35,7 @@ acerca_de_mi = {
 ```
 ###Sigueme en mis Redes:
 
-[![TEXTO ALETERNATIVO][(https://th.bing.com/th/id/R.3f7189662f19f8318fc75252deee723a?rik=Qa956Np1tp8Zcg&riu=http%3a%2f%2f1000logos.net%2fwp-content%2fuploads%2f2017%2f06%2fTwitter-Logo.png&ehk=6ekNd2ZmhpvFDGRZF19QcumP9fb8pZRkwrbFbK%2bpULA%3d&risl=&pid=ImgRaw&r=0)](https://twitter.com/ericktoam)
+[![TEXTO ALETERNATIVO](https://th.bing.com/th/id/R.3f7189662f19f8318fc75252deee723a?rik=Qa956Np1tp8Zcg&riu=http%3a%2f%2f1000logos.net%2fwp-content%2fuploads%2f2017%2f06%2fTwitter-Logo.png&ehk=6ekNd2ZmhpvFDGRZF19QcumP9fb8pZRkwrbFbK%2bpULA%3d&risl=&pid=ImgRaw&r=0)](https://twitter.com/ericktoam)
 **@ericktoam**
 
 [![Perfil LinkedIn](https://logospng.org/download/linkedin/logo-linkedin-icon-2048.png)](https://www.linkedin.com/in/ericktoam/)
