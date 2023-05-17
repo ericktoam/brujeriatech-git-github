@@ -47,7 +47,7 @@ acerca_de_mi = {
 |Nombre|Organización|Fecha de Vencimiento|
 |------|------------|--------------|
 |First Certificate of English FCE|Cambridge University|N/A|
-|Microsoft Exel|Microsoft|2014|
+|Microsoft Exel|Microsoft| 2014 |
 
 
 
